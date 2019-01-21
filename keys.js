@@ -6,4 +6,3 @@ exports.spotify = {
   secret: process.env.SPOTIFY_SECRET
 };
 
-exports.move = process.env.apiKey_OMDB; 
